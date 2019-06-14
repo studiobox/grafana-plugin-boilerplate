@@ -12,17 +12,17 @@
   "license": "ISC",
   "repository": "https://github.com/studiobox/grafana-plugin-boilerplate",
   "devDependencies": {
-    "@types/angular": "^",
+    "@types/angular": "^1.5.8",
     "@types/grafana": "git+https://git@github.com/CorpGlory/types-grafana.git",
-    "@types/lodash": "^",
-    "babel-core": "^",
-    "babel-loader": "^",
-    "babel-preset-env": "^",
-    "copy-webpack-plugin": "^",
-    "loader-utils": "^",
-    "ts-loader": "^",
-    "typescript": "^",
-    "webpack": "^",
-    "webpack-cli": "^"
+    "@types/lodash": "^4.14.74",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.7.0",
+    "copy-webpack-plugin": "^5.0.3",
+    "loader-utils": "^1.1.0",
+    "ts-loader": "^4.5.0",
+    "typescript": "^2.9.2",
+    "webpack": "^4.7.0",
+    "webpack-cli": "^3.3.4"
   }
 }
