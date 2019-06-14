@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+
+# Editor junk
+*.sublime-workspace
+*.swp
+.idea/
+*.iml
+
+.notouch
+.DS_Store
+.tscache

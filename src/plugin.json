@@ -1,0 +1,36 @@
+{
+    "type": "panel",
+    "name": "DS Grafana Plugin Boilerplate",
+    "id": "grafana-plugin-ds-boilerplate",
+    "info": {
+        "description": "This is a basic Grafana Plugin Boilerplate.",
+        "author": {
+            "name": "StudioBox",
+            "url": "https://github.com/studiobox"
+        },
+        "keywords": [],
+        "logos": {
+            "small": "assets/logo.svg",
+            "large": "assets/logo.svg"
+        },
+        "links": [{
+                "name": "Project Site",
+                "url": "https://github.com/studiobox/grafana-plugin-boilerplate"
+            },
+            {
+                "name": "Tutorials",
+                "url": "https://github.com/studiobox/grafana-plugin-boilerplate/wiki"
+            }
+        ],
+        "screenshots": [{
+            "name": "Main",
+            "path": "assets/screenshot_main.png"
+        }],
+        "verison": "1.0.0",
+        "updated": "2019-06-14"
+    },
+    "dependencies": {
+        "grafanaVersion": "4.1.1",
+        "plugins": []
+    }
+}

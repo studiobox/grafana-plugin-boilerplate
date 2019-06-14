@@ -1,0 +1,28 @@
+{
+  "name": "grafana-plugin-boilerplate",
+  "version": "1.0.0",
+  "description": "Basic Grafana Plugin Boilerplate",
+  "main": "src/module.js",
+  "scripts": {
+    "build": "webpack --config build/webpack.prod.conf.js",
+    "dev": "webpack --config build/webpack.dev.conf.js"
+  },
+  "keywords": [],
+  "author": "StudioBox",
+  "license": "ISC",
+  "repository": "https://github.com/studiobox/grafana-plugin-boilerplate",
+  "devDependencies": {
+    "@types/angular": "^",
+    "@types/grafana": "git+https://git@github.com/CorpGlory/types-grafana.git",
+    "@types/lodash": "^",
+    "babel-core": "^",
+    "babel-loader": "^",
+    "babel-preset-env": "^",
+    "copy-webpack-plugin": "^",
+    "loader-utils": "^",
+    "ts-loader": "^",
+    "typescript": "^",
+    "webpack": "^",
+    "webpack-cli": "^"
+  }
+}
